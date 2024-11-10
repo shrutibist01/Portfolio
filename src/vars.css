@@ -1,0 +1,16 @@
+:root {
+    --color-bg: #fff; 
+    --color-primary: #ff5b7f; 
+    --color-primary-dark: #e03e55; 
+    --color-light-pink: #ff8fa3; 
+    --color-white: #ffffff;
+    --color-text: #333; 
+    --color-dark-text: #222; 
+    --color-gray-text: #888; 
+    --color-dark-gray: #5f6368; 
+    --color-text-light: #999;
+  }
+  
+  body {
+    background: rgb(248, 225, 228); 
+  }

@@ -1,0 +1,23 @@
+[
+  {
+    "title": "SuiteMaster",
+    "imageSrc": "projects/p1.jpg",
+    "description": "Designed a robust hotel management system with an intuitive Qt-based user interface.",
+    "skills": ["C++", "QT", "MySQL"],
+    "source": "https://github.com/shrutibist01/HOTEL-MANAGEMENT-SYSTEM"
+  },
+  {
+    "title": "ExpenSure",
+    "imageSrc": "projects/p2.png",
+    "description": "Expense Management system for a company.",
+    "skills": ["Java", "MySQL", "Apache Tomcat"],
+    "source": "https://github.com/shrutibist01/dbms_flexi"
+  },
+  {
+    "title": "PixVibe",
+    "imageSrc": "projects/p3.jpeg",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React","Vite", "API", "Firebase"],
+    "source": "https://github.com/shrutibist01/PixVibe"
+  }
+]
